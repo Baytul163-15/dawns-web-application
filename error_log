@@ -1,0 +1,2 @@
+[30-Aug-2021 13:13:25 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.5". You are running 5.6.40. in /home/dawnsappscom/public_html/vendor/composer/platform_check.php on line 25
+[30-Aug-2021 13:13:38 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.5". You are running 5.6.40. in /home/dawnsappscom/public_html/vendor/composer/platform_check.php on line 25
